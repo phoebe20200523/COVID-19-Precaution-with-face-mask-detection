@@ -9,14 +9,14 @@ A face mask detector through CovNet training was developed and tested with image
 Python, TensorFlow, Keras, Numpy, OpenCV
 ## Datasets
 1. Training datasets: 600
-⋅⋅⋅300 human faces wearing masks 
-⋅⋅⋅300 human faces without masks
+⋅⋅*300 human faces wearing masks 
+⋅⋅*300 human faces without masks
 2. Test datasets: 100 
-⋅⋅⋅50 human faces wearing masks 
-⋅⋅⋅50 human faces without masks
+⋅⋅*50 human faces wearing masks 
+⋅⋅*50 human faces without masks
 3. Cross validation datasets: 306
-⋅⋅⋅153 human faces wearing masks 
-⋅⋅⋅153 human faces without masks
+⋅⋅*153 human faces wearing masks 
+⋅⋅*153 human faces without masks
 ## Results
 1.
 
