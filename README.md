@@ -15,7 +15,7 @@ Python, TensorFlow, Keras, Numpy, OpenCV
 2. [Test datasets](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/tree/main/Test): 100 
   50 human faces wearing masks 
   50 human faces without masks
-3. [Cross validation datasets](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/tree/main/Cross%20validation): 306
+3. [Cross-validation datasets](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/tree/main/Cross%20validation): 306
   153 human faces wearing masks 
   153 human faces without masks
 ## Results
