@@ -10,8 +10,6 @@ A face mask detector through ConvNet training was developed and tested with imag
 5. Video test: used OpenCV pretrained human face classifier model[^2] to detect human faces on the video streams([demo](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/tree/main/Video)) and the face mask detection model was deployed for mask detection on human faces.
 ## TechStacks
 Python, TensorFlow, Keras, Numpy, OpenCV
-## Tools
-Google Colab
 ## Datasets
 1. [Training datasets](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/tree/main/Train): 600
 + 300 human faces wearing masks 
