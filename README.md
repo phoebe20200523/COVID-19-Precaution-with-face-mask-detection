@@ -9,7 +9,7 @@ A face mask detector through CovNet training was developed and tested with image
 ## TechStacks
 Python, TensorFlow, Keras, Numpy, OpenCV
 ## Tools
-Google Colab,
+Google Colab
 ## Datasets
 1. [Training datasets](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/tree/main/Train): 600
   300 human faces wearing masks 
@@ -25,7 +25,9 @@ Google Colab,
 ![alt text](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/blob/main/Results/Loss.png)
 2. Traing and validation accuracy:
 ![alt text](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/blob/main/Results/Accuracy.png)
-3. 
+3. The trained model was successfully applied to detect face masks in video stream.
+  **[Original video](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/tree/main/Video)
+  **[Human face recognition and mask detection demostration video](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/blob/main/demo%20of%20face%20mask%20detection.mp4)
 [^1]: [Advice for the public: Coronavirus disease (COVID-19).](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public).
 [^2]: [OpenCV pretrained human face classifier model.](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
 
