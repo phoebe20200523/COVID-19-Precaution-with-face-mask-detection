@@ -12,14 +12,14 @@ Python, TensorFlow, Keras, Numpy, OpenCV
 Google Colab
 ## Datasets
 1. [Training datasets](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/tree/main/Train): 600
-  300 human faces wearing masks 
-  300 human faces without masks
++ 300 human faces wearing masks 
++ 300 human faces without masks
 2. [Test datasets](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/tree/main/Test): 100 
-  50 human faces wearing masks 
-  50 human faces without masks
++ 50 human faces wearing masks 
++ 50 human faces without masks
 3. [Cross-validation datasets](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/tree/main/Cross%20validation): 306
-  153 human faces wearing masks 
-  153 human faces without masks
++ 153 human faces wearing masks 
++ 153 human faces without masks
 ## Results
 1. Training and validation loss: 
 + ![alt text](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/blob/main/Results/Loss.png)
