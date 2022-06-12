@@ -30,7 +30,7 @@ Google Colab
 - ![alt text](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/blob/main/Video/original.gif)[Original video](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/tree/main/Video) 
 
 + Demo_face detection: 
-- ![alt text](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/blob/main/Video/deom_detection.gif)[Detection video](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/tree/main/Video)
+- ![alt text](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/blob/main/Video/demo_detection.gif)[Detection video](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/tree/main/Video)
 [^1]: [Advice for the public: Coronavirus disease (COVID-19).](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public).
 [^2]: [OpenCV pretrained human face classifier model.](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
 
