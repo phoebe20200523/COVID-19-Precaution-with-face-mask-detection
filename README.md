@@ -2,7 +2,7 @@
 ## Description
 During the pandemic, facemask wearing is one of the most important precaution measures.[^1]
 ## Description
-A face mask detector through CovNet training was developed and tested with images and further employed in viedeo streams.
+A face mask detector through ConvNet training was developed and tested with images and further employed in viedeo streams.
 1. Implemented deep learning algorithms (ConvNet) to devolop a face mask classifier in Python.
 3. Visualized training and validation loss and accuracy using Matplotlib.
 4. Used OpenCV pretrained human face classifier model[^2] to detect human faces on the video streams([demo](https://github.com/phoebe20200523/COVID-19-Precaution-with-face-mask-detection/tree/main/Video)) and the face mask detection model was deployed for mask detection on human faces.
